@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/10or/G" name="Jabiyeff/android_device_xiaomi_spes" remote="github" revision="lineage-20" />
+ <project path="device/10or/msm8953-common" name="RahulPalXDA/android_device_10or_msm8953-common.git" remote="github" revision="lineage-20" />
+ <project path="vendor/10or" name="Jabiyeff/android_vendor_xiaomi_spes" remote="github" revision="master" />
+ <project path="kernel/10or/G" name="Jabiyeff/kernel_xiaomi_spes_header" remote="github" revision="lineage-20" />
+ 
+</manifest>
